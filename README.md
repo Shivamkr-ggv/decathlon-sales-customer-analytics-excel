@@ -2,7 +2,7 @@
 
 An end-to-end Excel dashboard project that analyzes Decathlon's retail sales operations — revenue trends, customer behavior, product performance, and retention — to help business stakeholders make faster, data-driven decisions.
 
-![Final Dashboard](screenshots/Decathlon_Sales_Dashboard_Overview.png)
+![Final Dashboard](https://github.com/Shivamkr-ggv/decathlon-sales-customer-analytics-excel/blob/main/Decathlon_Sales_Dashboard_Overview.png)
 
 ---
 
