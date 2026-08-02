@@ -190,7 +190,7 @@ Decathlon-Sales-Customer-Analytics-Excel/
 
 If you found this project useful or have feedback, feel free to connect:
 
-- **LinkedIn:** (https://www.linkedin.com/in/shivamkumar-ggvcse/)
-- **Email:** (mailto:shivaraghav234@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/shivamkumar-ggvcse/
+- **Email:** mailto:shivaraghav234@gmail.com
 
 ⭐ If you like this project, consider giving this repository a star!
