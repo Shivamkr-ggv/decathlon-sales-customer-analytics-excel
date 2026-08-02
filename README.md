@@ -75,8 +75,8 @@ The dashboard needed to answer the following business questions:
 
 ## 🛠 Tools & Skills Used
 
-- **Microsoft Excel** (Excel Tables, PivotTables, Pivot Charts)
-- **Excel Formulas** (SUMIFS, calculated fields) for AOV, YoY Growth, and Retention Rate
+- **Microsoft Excel** (Excel Tables, PowerQuery, PowerPivot, PivotTables, Pivot Charts)
+- **DAX Formulas** (calculated fields) for AOV, YoY Growth, and Retention Rate
 - **PivotTables & PivotCharts**
 - **Slicers & Interactive Filters** (Year and Month)
 - **Dashboard Design Principles** (KPI cards, chart layout, color theory)
@@ -118,7 +118,7 @@ Multiple PivotTables were built on top of the dataset to summarize:
 - Month-wise trend of customers, orders, and AOV
 - Year-wise retention rate
 
-![Pivot Table Report](screenshots/Decathlon_Pivot_Table_Analysis.png)
+![Pivot Table Report](https://github.com/Shivamkr-ggv/decathlon-sales-customer-analytics-excel/blob/main/Decathlon_Pivot_Table_Analysis.png)
 
 ### 5. Dashboard Design
 All pivot outputs were converted into charts (line, donut, bar) and assembled onto a single dashboard sheet with a **Year slicer (2024/2025/2026)** and **Month buttons (Jan–Dec)** for interactivity, giving stakeholders a self-service reporting tool.
@@ -190,7 +190,7 @@ Decathlon-Sales-Customer-Analytics-Excel/
 
 If you found this project useful or have feedback, feel free to connect:
 
-- **LinkedIn:** [add your LinkedIn URL here]
-- **Email:** [add your email here]
+- **LinkedIn:** (https://www.linkedin.com/in/shivamkumar-ggvcse/)
+- **Email:** (mailto:shivaraghav234@gmail.com)
 
 ⭐ If you like this project, consider giving this repository a star!
